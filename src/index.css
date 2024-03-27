@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* This ensures the content is centered vertically */
+  background-color: orange
+}
+
+.container {
+  text-align: center;
+}
+
+.number {
+  color: white;
+  text-align: center;
+}
+
+.button {
+  color: red;
+  background-color: rgb(128, 0, 73);
+  padding: 1% 2%;
+  border-radius: 5px;
+  cursor: pointer;
+  border: 5px solid rgb(1, 1, 1);
+}
